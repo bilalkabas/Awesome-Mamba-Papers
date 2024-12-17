@@ -316,6 +316,8 @@ Last update on
 
 (Arxiv 24.06.09) Convolution and Attention-Free Mamba-based Cardiac Image Segmentation [Paper](https://arxiv.org/abs/2406.05786) 
 
+(Arxiv 24.12.12) Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction [Paper](https://arxiv.org/abs/2412.09331) [Code](https://github.com/icon-lab/MambaRoll/) ![Stars](https://img.shields.io/github/stars/icon-lab/MambaRoll)
+
 ## Time Series
 
 (Arxiv 24.03.14) TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting [Paper](https://arxiv.org/abs/2403.09898) [Code](https://github.com/Atik-Ahamed/TimeMachine) ![Stars](https://img.shields.io/github/stars/Atik-Ahamed/TimeMachine)
